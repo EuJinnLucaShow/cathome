@@ -2,7 +2,7 @@
 bezkoshtovnii-praktikum-z-rozrobki-sait-v-22-04-2023
 организатор: GoIT Academy
 
-<img src="https://github.com/EuJinnLucaShow/cathome/blob/main/photo_2023-04-19_10-12-32.jpg">
+<img src="https://github.com/EuJinnLucaShow/cathome/blob/main/images/photo.jpg">
 
 За 1 день ви зможете розробити сайт, закріпити знання з HTML та CSS, поспілкуватися з досвідченим практиком та дізнатися перспективи професії Frontend-розробника.
 
