@@ -1,10 +1,3 @@
-const myName = "Andrii";
-
-// console.log("Hello, world!");
-// console.log(myName);
-// console.log(40 + 49);
-// console.log("Good bye");
-
 const title = document.querySelector(".cats-title");
 const logotype = document.querySelector(".site-logo img");
 const body = document.querySelector("body");
@@ -25,22 +18,6 @@ function onPhotoClick() {
   catPhoto.height = "370";
 }
 catPhoto.addEventListener("click", onPhotoClick);
-
-// title.classList.remove("cats-title");
-
-// console.log(title);
-
-// title.style.cssText = "color: tomato; font-size: 50px";
-// title.style.fontSize = "50px";
-
-// String
-// Number
-// Boolean
-// Null
-// Undefined
-// Symbol
-// bigInt
-// Object
 
 const slider = document.querySelector(".hero-list");
 const next = document.querySelector(".next");
@@ -65,7 +42,7 @@ next.addEventListener("click", onNextClick);
 prev.addEventListener("click", onPrevClick);
 
 const lightbox = new SimpleLightbox(".gallery a", {
-  closeText: "&#128514;",
+  closeText: "&#128473",
   fadeSpeed: 1000
 });
 
